@@ -1,0 +1,3 @@
+﻿key,ex,map_x,map_y,bead[0],bead[1],bead[2],bead[3],bead[4],mon[1],mon_count[1],mon_lv_min[1],mon_lv_max[1],mon[2],mon_count[2],mon_lv_min[2],mon_lv_max[2],mon[3],mon_count[3],mon_lv_min[3],mon_lv_max[3],mon[4],mon_count[4],mon_lv_min[4],mon_lv_max[4]
+real,desc,real,real,real,real,real,real,real,real,real,real,real,real,real,real,real,real,real,real,real,real,real,real,real
+1030001,초원 (기본 맵),6400,3600,100,20,0,0,0,1020001,14,1,5,1020002,14,1,5,1020003,14,1,5,1020004,14,1,5
