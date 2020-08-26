@@ -1,0 +1,6 @@
+﻿key,name,element,hp_ratio_min,hp_ratio_max,atk_ratio_min,atk_ratio_max,def_ratio_min,def_ratio_max,xp_ratio_min,xp_ratio_max
+real,string,real,real,real,real,real,real,real,real,real
+1020001,이그니,1,0.9,1.1,1.1,1.25,0.8,0.9,1,1
+1020002,운디네,2,0.95,1.1,1,1.2,0.8,1,1,1
+1020003,노움,3,1,1.3,0.8,1,0.9,1.05,1,1
+1020004,실프,4,0.75,1,1,1.2,1,1.05,1,1
